@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\Book App\Book App\bin\Debug\Book App.exe.config
+C:\Users\DELL\source\repos\Book App\Book App\bin\Debug\Book App.exe
+C:\Users\DELL\source\repos\Book App\Book App\bin\Debug\Book App.pdb
+C:\Users\DELL\source\repos\Book App\Book App\obj\Debug\Book_App.Form1.resources
+C:\Users\DELL\source\repos\Book App\Book App\obj\Debug\Book_App.Properties.Resources.resources
+C:\Users\DELL\source\repos\Book App\Book App\obj\Debug\Book App.csproj.GenerateResource.Cache
+C:\Users\DELL\source\repos\Book App\Book App\obj\Debug\Book App.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Book App\Book App\obj\Debug\Book App.exe
+C:\Users\DELL\source\repos\Book App\Book App\obj\Debug\Book App.pdb
+C:\Users\DELL\source\repos\Book App\Book App\obj\Debug\Book App.csprojResolveAssemblyReference.cache
+C:\Users\DELL\source\repos\Book App\Book App\obj\Debug\Book_App.Form2.resources
+C:\Users\DELL\source\repos\Book App\Book App\bin\Debug\Book App.exe.manifest
+C:\Users\DELL\source\repos\Book App\Book App\bin\Debug\Book App.application
+C:\Users\DELL\source\repos\Book App\Book App\obj\Debug\Book App.exe.manifest
+C:\Users\DELL\source\repos\Book App\Book App\obj\Debug\Book App.application
